@@ -1,5 +1,5 @@
 # Javascript exercises
-![N|Solid](https://raw.githubusercontent.com/sakalx/javascript-resolve/master/assets/JavaScript.sh-600x600.png)
+![N|Solid](https://github.com/sakalx/javascript-resolve/blob/master/_assets/JavaScript.sh-600x600.png)
 **Enjoy your time ❤**
 ________________________________________________________
 ________________________________________________________
